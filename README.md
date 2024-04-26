@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Merna Abd El-Moez</h1>
-<h3 align="center">Software and Biomedical engineering student with expertise in Python, C++ and JavaScript. Enthusiastic about Artificial Intelligence and Web Development.</h3>
+<h3 align="center">Software and Biomedical engineering student at cairo university </h3>
 
 - 📫 How to reach me **mirnaezzat58@gmail.com**
 
