@@ -12,10 +12,12 @@
   </a>
 </p>
 
-<table align="center">
+## Skills and Technologies
+
+<table align="left">
   <tr>
-    <td align="center"><h3>Languages</h3></td>
-    <td align="center"><h3>Frontend Development</h3></td>
+    <td align="center" width="50%"><h3>Languages</h3></td>
+    <td align="center" width="50%"><h3>Frontend Development</h3></td>
   </tr>
   <tr>
     <td align="center">
