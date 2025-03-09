@@ -92,7 +92,6 @@
         </tr>
       </table>
     </td>
-
     <!-- GIF on the Right -->
     <td align="center" valign="top">
       <img src="https://media3.giphy.com/media/cmCEsJZHYBPels360q/200w.gif?cid=6c09b952lvbtqgwq3boiuky2jsvskqouycu6gr4zvp8m9ayg&ep=v1_stickers_search&rid=200w.gif&ct=s" 
