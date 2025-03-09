@@ -60,6 +60,37 @@
           </td>
         </tr>
         <tr>
+          <td align="center"><h3>Backend Development</h3></td>
+          <td align="center"><h3>Database</h3></td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://nodejs.org/" target="_blank">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+            </a>
+            <a href="https://expressjs.com/" target="_blank">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+            </a>
+            <a href="https://www.djangoproject.com/" target="_blank">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django" width="40" height="40"/>
+            </a>
+            <a href="https://flask.palletsprojects.com/" target="_blank">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://www.mongodb.com/" target="_blank">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+            </a>
+            <a href="https://www.mysql.com/" target="_blank">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+            </a>
+            <a href="https://www.postgresql.org/" target="_blank">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+            </a>
+          </td>
+        </tr>
+        <tr>
           <td align="center"><h3>AI & Deep Learning</h3></td>
           <td align="center"><h3>Other Tools</h3></td>
         </tr>
@@ -82,9 +113,6 @@
             <a href="https://jupyter.org/" target="_blank">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
             </a>
-            <a href="https://colab.research.google.com/" target="_blank">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/>
-            </a>
             <a href="https://git-scm.com/" target="_blank">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
             </a>
@@ -94,7 +122,7 @@
     </td>
     <!-- GIF on the Right -->
     <td align="center" valign="top">
-      <img src="https://media3.giphy.com/media/cmCEsJZHYBPels360q/200w.gif?cid=6c09b952lvbtqgwq3boiuky2jsvskqouycu6gr4zvp8m9ayg&ep=v1_stickers_search&rid=200w.gif&ct=s" 
+      <img src="https://media3.giphy.com/media/cmCEsJZHYBPels360q/200w.gif" 
            alt="Funny GIF" width="200" style="border-radius: 40px;">
     </td>
   </tr>
