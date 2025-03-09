@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://your-image-url.com/profile-pic.png" alt="Merna Abd El-Moez" width="200"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Merna Abd El-Moez</h1>
 <h3 align="center">Software and Biomedical engineering student at Cairo University</h3>
