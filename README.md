@@ -123,7 +123,7 @@
     <!-- GIF on the Right -->
     <td align="center" valign="top">
       <img src="https://media3.giphy.com/media/cmCEsJZHYBPels360q/200w.gif" 
-           alt="Funny GIF" width="200" style="border-radius: 40px;">
+           alt="Funny GIF" width="400" style="border-radius: 40px;">
     </td>
   </tr>
 </table>
