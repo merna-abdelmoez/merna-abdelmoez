@@ -1,5 +1,5 @@
 how to add an image here <h1 align="center">Hi 👋, I'm Merna Abd El-Moez</h1>
-<h3 align="center">Software and Biomedical engineering student at cairo university </h3>
+<h3 align="center">I'm a Senior Software and Biomedical Engineering student at Cairo University, passionate about Artificial Intelligence and its applications in healthcare and technology. </h3>
 
 - 📫 How to reach me **mirnaezzat58@gmail.com**
 
