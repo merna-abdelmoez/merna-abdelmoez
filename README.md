@@ -122,7 +122,7 @@
     </td>
     <!-- GIF on the Right -->
     <td align="center" valign="top">
-      <img src="https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif" 
+      <img src="https://media3.giphy.com/media/cmCEsJZHYBPels360q/200w.gif" 
            alt="Funny GIF" width="400" style="border-radius: 40px;">
     </td>
   </tr>
